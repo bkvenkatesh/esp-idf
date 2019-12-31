@@ -1,1 +1,3 @@
-export PATH=$PATH:'C:\workspace\esp-idf-tools\xtensa-esp32-elf-gcc8_2_0-esp32-2019r1-win32\xtensa-esp32-elf\bin':'C:\workspace\esp-idf-tools\ninja-win':'C:\workspace\esp-idf-tools\mconf-v4.6.0.0-idf-20190628-win32'
+export IDF_PATH='/c/workspace/esp-idf'
+export IDF_TOOLS_PATH='/c/workspace/esp-idf-tools/xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0'
+export PATH=$PATH:'/c/workspace/esp-idf-tools/xtensa-esp32-elf-win32-1.22.0-80-g6c4433a-5.2.0/xtensa-esp32-elf/bin':'/c/workspace/esp-idf-tools/ninja-win':'/c/workspace/esp-idf-tools/mconf-v4.6.0.0-idf-20190628-win32':'/c/Python27':'/c/workspace/esp-idf/tools'
