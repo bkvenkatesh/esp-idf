@@ -86,3 +86,6 @@
 [submodule "examples/peripherals/secure_element/atecc608_ecdsa/components/esp-cryptoauthlib"]
 	path = examples/peripherals/secure_element/atecc608_ecdsa/components/esp-cryptoauthlib
 	url = ../../espressif/esp-cryptoauthlib.git
+[submodule "components/esp32-camera"]
+	path = components/esp32-camera
+	url = git@github.com:bkvenkatesh/esp32-camera.git
